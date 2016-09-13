@@ -1,0 +1,21 @@
+{
+  "name": "zendesk-card",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "nylas": ">=0.4.51"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  },
+  "title": "Zendesk Sidebar Info",
+  "description": "View Zendesk user data in sidebar.",
+  "icon": "./icon.png",
+  "dependencies": {},
+  "license": "MIT"
+}
